@@ -1,0 +1,7 @@
+1、使用springboot 返回前台html时候 页面提示404，可能缺少 
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-thymeleaf</artifactId>
+        </dependency>
+        
+        
