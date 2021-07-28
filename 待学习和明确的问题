@@ -1,3 +1,6 @@
 1、
 https://i.blackhat.com/us-18/Wed-August-8/us-18-Orange-Tsai-Breaking-Parser-Logic-Take-Your-Path-Normalization-Off-And-Pop-0days-Out-2.pdf
 汤达会上说的那个权限绕过
+
+2、RestSchema
+org.apache.servicecomb.provider.rest.common
