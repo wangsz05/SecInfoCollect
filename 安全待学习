@@ -8,3 +8,13 @@ https://cloud.tencent.com/developer/article/1598048
 https://xz.aliyun.com/t/7930
 
 JNDI注入
+
+Spring Boot Fat Jar 写文件漏洞到稳定 RCE 的探索
+https://landgrey.me/blog/22/
+
+深入理解Java类加载 
+https://www.cnblogs.com/czwbig/p/11127222.html
+
+JDK8任意文件写场景下的Fastjson RCE
+https://threedr3am.github.io/2021/04/13/JDK8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E5%86%99%E5%9C%BA%E6%99%AF%E4%B8%8B%E7%9A%84Fastjson%20RCE/
+
