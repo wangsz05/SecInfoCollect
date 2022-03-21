@@ -4,3 +4,12 @@ https://i.blackhat.com/us-18/Wed-August-8/us-18-Orange-Tsai-Breaking-Parser-Logi
 
 2、RestSchema
 org.apache.servicecomb.provider.rest.common
+
+3、ClassLoader机制与冰蝎Webshell分析
+https://www.freebuf.com/articles/network/323994.html
+
+4、shiro反序列化漏洞分析及检测
+https://www.freebuf.com/articles/web/323529.html
+
+5、擅长捉弄的内存马同学：Filter内存马（高甜）
+https://www.freebuf.com/articles/web/321975.html
